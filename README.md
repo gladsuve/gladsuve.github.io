@@ -11,7 +11,8 @@
 
 ## Reference
 [검색엔진](https://naver.com)
-[Repository 1](https:/{github-id}.github.io/{repository-name})
+
+[Repository 1](https://gladsuve.github.io/)
 
 
 
