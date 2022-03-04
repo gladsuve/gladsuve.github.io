@@ -1,5 +1,11 @@
 ## 박지훈 홈페이지
 
+### 1. 자기소개
+
+|이름 | 박지훈 |
+|전공 | 경제학 |
+|취미 | 기타 |
+
 
 
 You can use the [editor on GitHub](https://github.com/gladsuve/gladsuve.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
