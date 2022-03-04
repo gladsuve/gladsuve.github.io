@@ -12,7 +12,7 @@
 ## Reference
 [검색엔진](https://naver.com)
 
-[Repository 1](https://gladsuve.github.io/)
+[Repository 1](https://gladsuve.github.io/hello_world)
 
 
 
