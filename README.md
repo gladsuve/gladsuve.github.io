@@ -1,53 +1,36 @@
-# 홍길동의 gitghub 홈페이지
-## IT 어린이입니다.
-통합계좌 관리 금융시스템입니다.
-## 전체 설계도
-<img src = "architecture.png"/><br>
-[발표자료](/project.pptx)<br>
-
-## 발표 동영상입니다.
-발표동영상입니다.
-<iframe width="788" height="443" src="https://www.youtube.com/embed/jVhDsa8wRDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Reference
-[검색엔진](https://naver.com)
-
-[Repository 1](https://gladsuve.github.io/hello_world)
 
 
+# 박지훈의 github 홈페이지
 
-You can use the [editor on GitHub](https://github.com/gladsuve/gladsuve.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 1. 본인 소개 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+본인 소개를 추가하세요
 
-### Markdown
+|이름 |박지훈||
+|연락처 | gladsuve(@)gmail.com|
+|skill set| Frontend - HTML, CSS, Javascript|
+| | Backend - Java, Spring, Oracle|
+| Analysis - Python, R|
+|자격증|  |
+|특기사항|  TOEIC 815 |
+||  기타연주 |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. 나의 동영상
+나의 동영상입니다.
+<iframe width="942" height="530" src="https://www.youtube.com/embed/l7ueisyBGOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
-```markdown
-Syntax highlighted code block
+## 3. IT 경험
 
-# Header 1
-## Header 2
-### Header 3
+||과목 |기간|개요 |
+|1|[git]|2022년 3월|git 사용법 |
+|||||
+|||||
+|||||
+|||||
+|||||
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gladsuve/gladsuve.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 관련 링크 
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
