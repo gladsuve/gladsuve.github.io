@@ -10,7 +10,7 @@
 |연락처 | gladsuve(@)gmail.com|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
-| Analysis - Python, R|
+| | Analysis - Python, R|
 |자격증|  |
 |특기사항|  TOEIC 815 |
 ||  기타연주 |
